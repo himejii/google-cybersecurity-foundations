@@ -76,6 +76,12 @@ Policies, procedures, security rules
 
 ---
 
-## Learning Outcome
+## Network security involves protecting data as it moves across systems and networks.
 
-This project reflects my practical review and consolidation of cybersecurity fundamentals developed through structured training and independent study.
+### Key practices include:
+
+* using firewalls
+* securing connections with encryption
+* controlling network access
+* monitoring traffic
+* using VPNs when appropriate
