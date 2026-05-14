@@ -43,19 +43,6 @@ Different employees receive only the permissions required for their responsibili
 
 ---
 
-## Security Controls
-
-### Physical Controls
-Locks, cameras, secure access points
-
-### Technical Controls
-Firewalls, authentication systems, encryption
-
-### Administrative Controls
-Policies, procedures, security rules
-
----
-
 ## Risk Management
 
 ### Risk management is the process of identifying possible security risks, evaluating their potential impact, and applying measures to reduce or control them as effectively as possible.
@@ -73,6 +60,19 @@ Policies, procedures, security rules
 - recovering affected systems
 - analyzing what happened
 - documenting lessons to improve future response
+
+---
+
+## Security Controls
+
+### Physical Controls
+Locks, cameras, secure access points
+
+### Technical Controls
+Firewalls, authentication systems, encryption
+
+### Administrative Controls
+Policies, procedures, security rules
 
 ---
 
