@@ -60,6 +60,22 @@ Policies, procedures, security rules
 
 ### Risk management is the process of identifying possible security risks, evaluating their potential impact, and applying measures to reduce or control them as effectively as possible.
 
+---
+
+## Incident Response
+
+### Incident response is the process of identifying and responding to security incidents through predefined procedures.
+
+### It includes:
+- detecting the incident
+- containing the threat
+- assessing impact
+- recovering affected systems
+- analyzing what happened
+- documenting lessons to improve future response
+
+---
+
 ## Learning Outcome
 
 This project reflects my practical review and consolidation of cybersecurity fundamentals developed through structured training and independent study.
