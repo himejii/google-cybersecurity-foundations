@@ -56,6 +56,10 @@ Policies, procedures, security rules
 
 ---
 
+## Risk Management
+
+### Risk management is the process of identifying possible security risks, evaluating their potential impact, and applying measures to reduce or control them as effectively as possible.
+
 ## Learning Outcome
 
 This project reflects my practical review and consolidation of cybersecurity fundamentals developed through structured training and independent study.
