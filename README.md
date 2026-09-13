@@ -85,3 +85,55 @@ Policies, procedures, security rules
 * controlling network access
 * monitoring traffic
 * using VPNs when appropriate
+
+---
+
+## Phishing Analysis
+
+Phishing is a social engineering technique used to trick users into revealing sensitive information, downloading malicious files, or interacting with malicious links.
+
+### What I Learned
+
+* How to identify suspicious emails
+* How to analyze the sender and email domain
+* How to inspect email headers
+* How to identify suspicious URLs and attachments
+* How SPF, DKIM, and DMARC can help verify email authenticity
+* How to identify potential Indicators of Compromise (IOCs)
+
+### Phishing Investigation Process
+
+When analyzing a potentially malicious email, I can follow these steps:
+
+1. Check the sender's email address and domain
+2. Inspect the email headers
+3. Review SPF, DKIM, and DMARC authentication results
+4. Analyze links and domains included in the email
+5. Check attachments for suspicious characteristics
+6. Identify potential IOCs
+7. Determine whether the email is legitimate, suspicious, or malicious
+8. Document the findings
+
+### Security Indicators
+
+Some common indicators of phishing include:
+
+* Spoofed or suspicious sender addresses
+* Lookalike domains
+* Urgent or threatening language
+* Unexpected attachments
+* Suspicious URLs
+* Authentication failures
+* Requests for credentials or sensitive information
+
+### Skills Demonstrated
+
+* Phishing analysis
+* Email security
+* Email header analysis
+* SPF
+* DKIM
+* DMARC
+* IOC identification
+* Security investigation
+* Social engineering awareness
