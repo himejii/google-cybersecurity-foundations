@@ -114,6 +114,29 @@ When analyzing a potentially malicious email, I can follow these steps:
 7. Determine whether the email is legitimate, suspicious, or malicious
 8. Document the findings
 
+### What I Learned
+- Identifying suspicious emails
+- Analyzing email headers
+- Identifying suspicious URLs and attachments
+- Understanding email authentication
+
+### Email Security Protocols
+- SMTP
+- S/MIME
+- SPF
+- DKIM
+- DMARC
+
+### Phishing Investigation Process
+1. Check sender
+2. Inspect headers
+3. Check SPF/DKIM/DMARC
+4. Analyze URLs
+5. Check attachments
+6. Identify IOCs
+7. Determine if malicious
+8. Document findings
+
 ### Security Indicators
 
 Some common indicators of phishing include:
